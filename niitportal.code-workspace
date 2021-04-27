@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "web-server"
+		},
+		{
+			"path": "..\\transave-web"
 		}
 	],
 	"settings": {}
